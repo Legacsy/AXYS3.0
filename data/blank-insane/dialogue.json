@@ -1,0 +1,114 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "wait.. ",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "who are you?.."
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "looks like you didn't notice the *no trespassing* sign...",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		},
+		{
+			"expression": "normal",
+			"text": "i need my space, ok?",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so this is your chance to go away, i might not be too mercyful with you next time"
+		},
+		{
+			"expression": "talk",
+			"text": "bep beep beep bop",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "rap battle?",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i just told you to leave! didn't you listen?"
+		},
+		{
+			"expression": "talk",
+			"text": "bap boop beep beep baap",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "i get it",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "but if i win, it's game over for you."
+		},
+		{
+			"expression": "talk",
+			"text": "baap",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "let's do this",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "axys"
+		}
+	]
+}

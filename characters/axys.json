@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "axys NORMAL idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				-95
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "axys leftNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-165
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "axys downNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "axys upNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-64
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "axys rightNote",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/axys_sprites",
+	"position": [
+		50,
+		-100
+	],
+	"healthicon": "axys",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		100,
+		170
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

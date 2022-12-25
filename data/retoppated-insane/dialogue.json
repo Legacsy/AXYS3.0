@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heh, you're pretty good, man"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Smirk",
+			"text": "sorry for throwing stuff at you, i wanted to make things more interesting"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bok"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Neutral",
+			"text": "all cool then"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bring       the      boy      to      me     .   .   ."
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "i definetely heard something"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "angry",
+			"expression": "Pissed",
+			"text": "who goes there?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HE               HAS              TO              DIE"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "uhhh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "angry",
+			"expression": "Worried",
+			"text": "who are you talking about?! show yourself!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".   .   .   .   .   .   .   ."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "i think they're gone"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Pissed",
+			"text": "it must have been one of those pranksters again..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep..."
+		}
+	]
+}

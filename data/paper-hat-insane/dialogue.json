@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "how...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "how...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "axys",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "HOW?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beap seep"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "i would've beaten your ass if you weren't so lucky.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bok"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you may now leave this realm, and never come back"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'll let you go as long as you promise that"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop skobeep bup da bespoob"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "you won't leave?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i guess i wasn't enough for you.. "
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "unfortunately, i don't have more tricks for you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but i know who does..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "intrigued",
+			"text": "you called me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this is my friend, Hashtag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "and he's the who's gonna put an end to this right now.."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "chill out bro, i'll go easy on you"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "to make things interesting..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		}
+	]
+}

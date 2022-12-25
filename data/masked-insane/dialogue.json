@@ -1,0 +1,56 @@
+{
+	"dialogue": [
+		{
+			"expression": "ugh",
+			"text": "jeez man",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.045
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "don't think that was all i had"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "that was just begginer's luck"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "booooo"
+		},
+		{
+			"expression": "pissed",
+			"text": "shut up!",
+			"boxState": "angry",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "bop beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.025
+		},
+		{
+			"expression": "pissed",
+			"text": "next song!",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		}
+	]
+}

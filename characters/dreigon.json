@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dreigon IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				-123
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dreigon leftNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-225
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dreigon rightNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dreigon downNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				344,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dreigon upNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				342,
+				58
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "dreigon ALTUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				-162
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "dreigon ALTLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-30
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "dreigon ALTERNATIVEidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-105
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "dreigon ALTRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-200
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "dreigon ALTDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dreigon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dreigon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		110,
+		220
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

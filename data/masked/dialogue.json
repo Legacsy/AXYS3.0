@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "beap",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "i don't know why that offends me",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "normal",
+			"text": "anyways i have to-",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "talk",
+			"text": "bop beep",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "ugh",
+			"text": "another song?",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "ugh",
+			"text": "i'm kinda tired tho",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "ugh",
+			"text": "but ok...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "axys"
+		}
+	]
+}

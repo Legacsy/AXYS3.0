@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "who goes there?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Neutral",
+			"text": "oh, nevermind"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Smirk",
+			"text": "i thought you weren't human"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bepdo skaple"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Exited",
+			"text": "oh i love rap battling!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Smirk",
+			"text": "i mean. sure, i'll try"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bok"
+		}
+	]
+}

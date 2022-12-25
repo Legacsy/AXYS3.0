@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "huh",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.025
+		},
+		{
+			"expression": "normal",
+			"text": "that's unusual",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "normal",
+			"text": "not many people come near these areas",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "bep beep beep bop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.025
+		},
+		{
+			"expression": "normal",
+			"text": "what's a rap battle?",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "bap boop beep beep baap",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.025
+		},
+		{
+			"expression": "normal",
+			"text": "i get it",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "normal",
+			"text": "i'll try my best",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "ugh",
+			"text": "i'm not the best at singing tho",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "baap",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "ok",
+			"boxState": "normal",
+			"portrait": "axys",
+			"speed": 0.025
+		}
+	]
+}

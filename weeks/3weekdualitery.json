@@ -1,0 +1,49 @@
+{
+	"storyName": "dual-itery",
+	"difficulties": "hard, insane",
+	"hideFreeplay": false,
+	"weekBackground": "dualitery",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekhashtag",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"curry-bucket",
+			"dualitery",
+			[
+				255,
+				155,
+				115
+			]
+		],
+		[
+			"wrench",
+			"dualitery",
+			[
+				255,
+				155,
+				115
+			]
+		],
+		[
+			"retoppated",
+			"dualitery",
+			[
+				255,
+				155,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "dualitery"
+}

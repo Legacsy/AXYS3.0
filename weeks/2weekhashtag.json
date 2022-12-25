@@ -1,0 +1,49 @@
+{
+	"storyName": "hashtag swag",
+	"difficulties": "hard, insane",
+	"hideFreeplay": false,
+	"weekBackground": "hashtag",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekaxys",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"paper-hat",
+			"hashtag",
+			[
+				55,
+				0,
+				100
+			]
+		],
+		[
+			"bounce",
+			"hashtag",
+			[
+				55,
+				0,
+				100
+			]
+		],
+		[
+			"monogram",
+			"dreigon",
+			[
+				15,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "hashtag week"
+}

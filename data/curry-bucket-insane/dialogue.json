@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "who goes there?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Neutral",
+			"text": "oh, nevermind"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Smirk",
+			"text": "sorry dude, i almost thought you were one of them"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Pissed",
+			"text": "we call them *blanks*"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Smirk",
+			"text": "although few of them aren't completely blank, heh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skeep bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "well that's not good..."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "blanks are very territorial you see"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh well, glad you made it out alive"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap skaple"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Exited",
+			"text": "oh i love rap battling!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Smirk",
+			"text": "i mean, haven't tried in a while. but okay!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bok"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "axys",
+	"difficulties": "hard, insane",
+	"hideFreeplay": false,
+	"weekBackground": "axys",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blank",
+			"axys",
+			[
+				95,
+				95,
+				95
+			]
+		],
+		[
+			"Masked",
+			"axys",
+			[
+				95,
+				95,
+				95
+			]
+		],
+		[
+			"Toppated",
+			"axys-angry",
+			[
+				95,
+				95,
+				95
+			]
+		]
+	],
+	"weekName": "week axys"
+}

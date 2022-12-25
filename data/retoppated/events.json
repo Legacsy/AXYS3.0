@@ -1,0 +1,114 @@
+{
+	"song": {
+		"speed": 2.95,
+		"stage": "heights",
+		"player1": "bf",
+		"player2": "dualitery",
+		"player3": null,
+		"events": [
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"1",
+						"axys-angry"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-car-far"
+					],
+					[
+						"Screen Shake",
+						"32, 0.005",
+						"0, 0"
+					],
+					[
+						"Change Character",
+						"2",
+						"no gf"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Change Character",
+						"1",
+						"hashtag"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Change Character",
+						"1",
+						"dreigon"
+					]
+				]
+			],
+			[
+				208000,
+				[
+					[
+						"Change Character",
+						"1",
+						"axys-angry"
+					],
+					[
+						"Change Character",
+						"2",
+						"no gf"
+					],
+					[
+						"Screen Shake",
+						"106, 0.005",
+						"0, 0"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-car"
+					]
+				]
+			],
+			[
+				314666.666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"dualitery"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "retoppated"
+	}
+}

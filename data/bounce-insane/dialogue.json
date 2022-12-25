@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey, you're pretty good!"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "don't compliment him!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep ski"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i know, i said i was going easy on you"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "but not anymore"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just don't go too hard dude"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we don't want *THAT* thing to happen again.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "relax, it'll be fine.."
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "now, bring it on!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(i have a bad feeling about this...)"
+		}
+	]
+}

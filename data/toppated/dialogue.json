@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "alright",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "axys"
+		},
+		{
+			"expression": "pissed",
+			"text": "i don't even know who you are, but you are pissing me off",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "talk",
+			"text": "bap bop",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "do you think i use this mask because i want to?",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "axys"
+		},
+		{
+			"expression": "pissed",
+			"text": "i was obliged to wear this piece of shit!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "pissed",
+			"text": "and i hate it!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "i'll make you eat those words",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "pissed",
+			"text": "and i'll end you",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "axys"
+		},
+		{
+			"expression": "angry",
+			"text": "just like i'm about to end this right now...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "axys"
+		},
+		{
+			"expression": "talk",
+			"text": "a",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(still a nice dream mask)",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		}
+	]
+}

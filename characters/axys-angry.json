@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "axys leftALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "axys rightALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-22
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "axys ALT idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "axys downALT"
+		},
+		{
+			"offsets": [
+				217,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5
+			],
+			"name": "axys upALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				-60
+			],
+			"anim": "attack1",
+			"fps": 24,
+			"name": "axys gunShotONE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-10
+			],
+			"anim": "attack2",
+			"fps": 24,
+			"name": "axys gunShotTWO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				-130
+			],
+			"anim": "attack3",
+			"fps": 24,
+			"name": "axys gunShotTHREE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/axys_sprites",
+	"position": [
+		60,
+		-110
+	],
+	"healthicon": "axys-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		190
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

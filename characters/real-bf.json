@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "real-bf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "real-bf leftNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "real-bf downNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "real-bf upNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "real-bf rightNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-35
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "real-bf MISSleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-69
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "real-bf MISSdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "real-bf MISSup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-35
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "real-bf MISSright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				14
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "real-bf dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "real-bf hey"
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "real-bf HURT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/real-bf",
+	"position": [
+		-10,
+		315
+	],
+	"healthicon": "realBF",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		255,
+		169
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

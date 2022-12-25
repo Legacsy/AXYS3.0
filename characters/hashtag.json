@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-39,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "hashtag idle"
+		},
+		{
+			"offsets": [
+				240,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hashtag leftNOTE"
+		},
+		{
+			"offsets": [
+				20,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hashtag rightNOTE"
+		},
+		{
+			"offsets": [
+				80,
+				-189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "hashtag downNOTE"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "hashtag upNOTE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hashtag",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hashtag",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		40,
+		175
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

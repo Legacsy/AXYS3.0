@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "Exited",
+			"text": "dude, that was AWESOME!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dualitery"
+		},
+		{
+			"expression": "Smirk",
+			"text": "you really have some skills",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery"
+		},
+		{
+			"expression": "talk",
+			"text": "bapebe do be pop beep",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Smirk",
+			"text": "sure dude, that was a lot of fun",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery"
+		},
+		{
+			"expression": "talk",
+			"text": "i           am           still          watching . . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "none"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dualitery",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "did you hear something?"
+		}
+	]
+}

@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "how did you manage to survive that?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "i can't believe i'm that useless..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beepabo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "alright"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "i don't have any more tricks for you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but i know who does..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "intrigued",
+			"text": "yup?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this is my friend Hashtag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "so, this is the guy that you told me to take care of?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "yes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "because you couldn't?.."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "yes..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "so. BF right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "alright."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "well prepare yourself already..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "because i will take care of you like a baby"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ba"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "can you guys just start already?..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		}
+	]
+}

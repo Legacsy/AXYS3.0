@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beeep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "okay..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "you're tougher than i first though"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "but now i won't hold back"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "quit playing arround will you?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "axys",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "i'm also talking to you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "anyways, are you ready?..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		}
+	]
+}

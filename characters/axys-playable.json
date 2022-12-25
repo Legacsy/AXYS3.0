@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "poses idle"
+		},
+		{
+			"offsets": [
+				60,
+				-150
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "poses down"
+		},
+		{
+			"offsets": [
+				-80,
+				60
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "poses up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-110
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "poses MISSleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-176
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "poses MISSdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				40
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "poses MISSup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-28
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "poses MISSright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-192,
+				-94
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "poses left"
+		},
+		{
+			"offsets": [
+				36,
+				-25
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "poses right"
+		},
+		{
+			"offsets": [
+				-111,
+				610
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				-111,
+				610
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		50,
+		-70
+	],
+	"healthicon": "axys",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		100,
+		170
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
